@@ -1,0 +1,54 @@
+
+<resources>
+    <string name="app_name">BICOL SPOTS</string>
+    <string name="OK">OK</string>
+    <string name="INPUT">Enter your name</string>
+    <string name="LETSGO">LETS GO!</string>
+    <string name="mainpage">x</string>
+
+
+    <string name="Location1">Daraga,Albay</string>
+    <string name="Location2">Daraga,Albay</string>
+    <string name="Location3">Naga,Camarines Sur</string>
+    <string name="Location4">Gubat,Sorsogon</string>
+    <string name="Location5">Matnog,Sorsogoon</string>
+    <string name="Location6">Malinao,Albay</string>
+    <string name="Location7">Legazpi City</string>
+    <string name="Location8">Camarines Norte</string>
+    <string name="Location9">Caramines Sur</string>
+    <string name="Location10">Daet,Camarines Norte</string>
+
+
+    <string name="spot_1">Cagsawa Ruins</string>
+    <string name="spot_2">Daraga Church</string>
+    <string name="spot_3">Minor Basilica</string>
+    <string name="spot_4">Rizal Beach</string>
+    <string name="spot_5">Subic Beach</string>
+    <string name="spot_6">Vera Falls</string>
+    <string name="spot_7">Lignon Hill Nature Park</string>
+    <string name="spot_8">Calaguas</string>
+    <string name="spot_9">Caramoan</string>
+    <string name="spot_10">Bagasbas</string>
+
+
+
+    <string name="Description_1">The Cagsawa Ruins Park is now one of the most popular tourist destinations in Albay province. It is also the site of the Cagsawa Branch of the National Museum of the Philippines. This museum contains photographs of the volcanic eruptions of Mount Mayon as well as other geological and archeological exhibits.</string>
+    <string name="Description_2">Our Lady of the Gate Parish Church is a Roman Catholic Church in Daraga, Albay. Located on a hilltop with a commanding view of Mayon Volcano, it is one of the most visited churches in Albay. The Daraga Church, as it is popularly known, began to be built in 1773 after the people of Cagsawa were allowed to transfer their town center to avoid the disasters brought by the eruptions of Mt. Mayon and the flooding of Yawa River. However, it was only in 1815 that the transfer was fully materialized, one year after the volcanic eruption that destroyed the old Cagsawa.
+        Daraga Church is a rare and outstanding example of the Churrigueresque style in the Philippines.</string>
+    <string name="Description_3">Basilica Minore of Our Lady of Peñafrancia is located in Naga City, Camarines Sur, Philippines. Also called Peñafrancia Basilica, it is the only basilica in the entire Archdiocese of Caceres and of the Bicol region (which is composed of other provinces of Albay, Camarines Norte, Catanduanes, Masbate, and Sorsogon).
+        It is also a National Shrine where the image of the patroness, Our Lady of Peñafrancia, that was carved in the 18th century by Miguel Robles de Covarrubias is enshrined.</string>
+    <string name="Description_4">Rizal beach is a fun and price friendly beach with enough waves to try surfing, enjoy the scorching sun under the clear waves.</string>
+    <string name="Description_5">Subic beach has pinks sands and offer a lot of activities for you and your family, although there is no facilities around so you need to bring your own food.</string>
+
+    <string name="Description_6">Vera Falls is a refreshingly stunning cascade located in the municipality of Malinao, Albay. This 25-meter beauty have mini waterfalls coming out of the rocks at the side of the main falls. It’s very cold catch basin is about 2 meters deep and is really clear and clean. I commend the people who manage this waterfalls because it is well maintained.</string>
+    <string name="Description_7"> 156-meter high Ligon Hill has always been one of the most well-known landmarks in Albay. There is a lighthouse at the top. Today, it is one of the most popular places in the city for tourists, adventurers, and even people who like to stay in shape. The new Lignon Hill Natural Park is supposed to be the best place to visit in the city. It has a lot to see and do for people of all ages and backgrounds. People who want to see the city of Legazpi, the Daraga River, the Albay Gulf, and the Mayon Volcano can go to the view deck. Some restaurants and shops also serve visitors. </string>
+    <string name="Description_8">Calaguas Islands is increasingly becoming a popular backpacker beach destination. Located on the northernmost tip of Bicol, this beautiful beach in Camarines Norte is probably one of the best destinations in Luzon to go to if you want to spend idyllic time alone in nature.</string>
+    <string name="Description_9">Sleeping in dangerous places</string>
+    <string name="Description_10">Bagasbas Beach is a renowned tourist site in the Filipino municipality of Daet, Camarines Norte. Its lengthy stretch of sandy beach is famed for its excellent waves, making it a popular destination for surfers.</string>
+    <string name="about">About:</string>
+    <string name="Area">Location</string>
+
+    <string name="expand_button_content_description">See more or less information about the tourist spot.</string>
+
+</resources>
+
